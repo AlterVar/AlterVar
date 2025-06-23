@@ -4,9 +4,12 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ2MnU0Z2N6dGdyY3FoNXo1NWp1dnpzdXh6cmZnNGgwN3FhOWJkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ykh9sAHL2BAa3Qtjg8/giphy.gif" alt="Кальцифер" width="30%" align="left">
 
+<div style="background-color: #e6e6e6; width: 400px; margin-left: 30%; padding: 20px; border-radius: 10px">
 Turn mockups into live interfaces with flames of passion.
-
-A forever-student of frontend development who believes beautiful code should feel natural and concise. I stand by the truth: great developers grow through sharing knowledge and asking "dumb" questions.
+A forever-student of frontend development who believes beautiful code
+should feel natural and concise. I stand by the truth: great developers grow
+through sharing knowledge and asking "dumb" questions.
+</div>
 <br clear="left"/>
 
 ## Education
