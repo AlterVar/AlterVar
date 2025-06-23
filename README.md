@@ -6,6 +6,8 @@
 
 <div style="background-color: #e6e6e6; width: 400px; margin-left: 30%; padding: 20px; border-radius: 10px">
 Turn mockups into live interfaces with flames of passion.
+  
+<br>
 A forever-student of frontend development who believes beautiful code
 should feel natural and concise. I stand by the truth: great developers grow
 through sharing knowledge and asking "dumb" questions.
